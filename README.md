@@ -1,13 +1,14 @@
-# 🧠 Exploring Genrative AI: My Personal Learning Space
-Welcome to my AI learning playground! This is where I explore, learn, and take notes on all things AI. No business here, just pure AI enthusiasm!
+# 🧠 Exploring Generative AI
+Welcome to my AI learning playground! This is where I explore, learn, and take notes on all things AI. 
 
 ## What's Inside?
 
 - **OpenAI API**: Experimenting with text generation and more.
 - **LangChain**: Exploring LangChain's quirks and capabilities.
 - **LLMS**: Playing with Large Language Models for real-world magic.
-- **Best Practices**: Collecting AI best practices to share with fellow enthusiasts.
-- **Code Examples**: Handy AI code snippets I've found.
+
+## Gen AI materials
+
 
 ## Get Started
 
