@@ -18,13 +18,13 @@ Here's a quick reference to get you started with some of our curated projects:
 
 **Text Generation:**
 
-*  [Project 1 Name](folder1/): (Description of Project 1)
-*  [Project 2 Name](folder2/): (Description of Project 2)
+*  [Thesis-bot using OpenAI Functions](thesis-bot-using-openai-functions/): (Description of Project 1)
+*  [Style Snatcher](style-snatcher/): (Description of Project 2)
 
 **Image Generation:**
 
-*  [Project 3 Name](folder3/): (Description of Project 3)
-*  [Project 4 Name](folder4/): (Description of Project 4)
+*  [Fine-Tuning Stable Diffusion](finetuning-stable-diffusion/): (Description of Project 3)
+*  [Video-Background-Removal using Grounded SAM](video-bakground-overlay-using-Grounded-SAM/): (Description of Project 4)
 
 **Chat Bots:**
 
